@@ -1,4 +1,4 @@
-### I am interested in visualizing abstracts
+### interested in visualizing abstracts
 
 <!--
 **YoungYoung2/YoungYoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
