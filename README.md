@@ -1,6 +1,4 @@
-### Hi there! 👋  
-- **Web Service Planner**
-- **interested in visualizing abstracts** ✨
+## **interested in visualizing abstracts** ✨
 
 ---
 
@@ -15,8 +13,8 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realymhd&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realymhd&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
