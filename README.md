@@ -1,4 +1,4 @@
-### **interested in visualizing abstracts** ✨
+### **interested in visualizing abstracts**
 
 ---
 
@@ -18,4 +18,5 @@
 ---
 
 ### 📫 How to Reach Me
-Feel free to reach out if you're interested in collaborating on a project or just want to chat!
+- farewell5545@gmail.com
+- Feel free to reach out if you're interested in collaborating on a project or just want to chat!
