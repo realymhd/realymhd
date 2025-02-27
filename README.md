@@ -13,7 +13,6 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realymhd&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realymhd&show_icons=true&theme=radical&hide_border=true)
 
 ---
